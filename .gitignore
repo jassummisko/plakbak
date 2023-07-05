@@ -2,3 +2,5 @@
 config.plakbak
 dump.file
 src/*
+bin/*
+releases/*

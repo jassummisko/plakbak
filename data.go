@@ -27,6 +27,8 @@ print("Build finished")
 var tomlTemplate string = `
 DevApiKey = "YOUR DEV API KEY HERE"
 SourceFolder = "src"
+Username = "YOUR USERNAME HERE"
+Password = "YOUR PASSWORD HERE"
 `
 
 var configName string = "config.plakbak"

@@ -168,6 +168,16 @@ func main() {
 		os.Exit(1)
 	}
 
+	if config.Username == "YOUR USERNAME HERE" {
+		fmt.Println("Please add your username in config.plakbak.")
+		os.Exit(1)
+	}
+
+	if config.DevApiKey == "YOUR PASSWORD HERE" {
+		fmt.Println("Please add your user password in config.plakbak.")
+		os.Exit(1)
+	}
+
 	devkey := config.DevApiKey
 	username := config.Username
 	password := config.Password
