@@ -1,0 +1,8 @@
+gearno.de/base58 v0.0.0-20221013154836-14e0799f1471 h1:KZmxUfL6vSZiJbuGpmvXAQLyp5EYvybJtqZsdMYYMB0=
+gearno.de/base58 v0.0.0-20221013154836-14e0799f1471/go.mod h1:QHJfGoIk3a8LjMTDxX3Dr/i9F6qltu1Ee4yUqwS8WuU=
+gearno.de/privatebin v1.4.0 h1:k307oJhO2bOZKdMWE8AcEf39V+uVujIAqMWLWdccJV0=
+gearno.de/privatebin v1.4.0/go.mod h1:OGNnj/B96EdfXXnuGZDrrmk3a/kAKnaK4PUEpWHHCTw=
+github.com/BurntSushi/toml v1.3.2 h1:o7IhLm0Msx3BaB+n3Ag7L8EVlByGnpq14C4YWiu/gL8=
+github.com/BurntSushi/toml v1.3.2/go.mod h1:CxXYINrC8qIiEnFrOxCa7Jy5BFHlXnUU2pbicEuybxQ=
+golang.org/x/crypto v0.0.0-20220926161630-eccd6366d1be h1:fmw3UbQh+nxngCAHrDCCztao/kbYFnWjoqop8dHx05A=
+golang.org/x/crypto v0.0.0-20220926161630-eccd6366d1be/go.mod h1:IxCIyHEi3zRg3s0A5j5BB6A9Jmi73HwBIUl50j+osU4=
